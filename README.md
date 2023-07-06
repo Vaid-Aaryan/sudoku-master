@@ -2,7 +2,10 @@
 This is a Sudoku solver implemented in C++.
 
 # Table of Contents
-1.main.cpp.cpp
+Introduction
+Usage
+Dependencies
+Contributing
 
 # Introduction
 The Sudoku Solver is a C++ program that solves Sudoku puzzles. 
@@ -32,6 +35,11 @@ To use the Sudoku Solver, follow these steps:
 
 # Dependencies
 This program does not have any external dependencies. It only requires a C++ compiler that supports C++11 or higher.
+iostream
+
+vector
+
+algorithm
 
 # contributing
 Contributions to the Sudoku Solver are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
